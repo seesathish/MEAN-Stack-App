@@ -32,3 +32,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Conn String - 
 "mongodb+srv://seesathish:6zbJT2cQdgcuRdOD@cluster0-1oe54.mongodb.net/test?retryWrites=true"
 
+### Hosting
+
+Node hosted in http://satpost.ap-southeast-1.elasticbeanstalk.com
+

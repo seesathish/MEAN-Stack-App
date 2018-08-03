@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  apiUrl: 'http://satpost.ap-southeast-1.elasticbeanstalk.com/api'
 };

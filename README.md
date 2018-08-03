@@ -36,3 +36,5 @@ Conn String -
 
 Node hosted in http://satpost.ap-southeast-1.elasticbeanstalk.com
 
+Angular hosted in http://sap-post-mean.s3-website-ap-southeast-1.amazonaws.com
+
